@@ -83,7 +83,7 @@
 
 .body {
   background-color: #084873;
-  background-image: url('../images/Background.jpg');
+  background-image: url('/../images/Background.jpg');
   background-position: 0px 0px;
   background-size: cover;
   background-repeat: repeat-y;
